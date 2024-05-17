@@ -152,5 +152,3 @@ dmypy.json
 
 # secret key file
 /secret_key.txt
-
-.idea
